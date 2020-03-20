@@ -1,0 +1,14 @@
+C:\Users\dell\Desktop\Pipleines\src\AzureDevOpsDemo\AzureDevOpsDemo\bin\Debug\AzureDevOpsDemo.exe.config
+C:\Users\dell\Desktop\Pipleines\src\AzureDevOpsDemo\AzureDevOpsDemo\bin\Debug\AzureDevOpsDemo.exe
+C:\Users\dell\Desktop\Pipleines\src\AzureDevOpsDemo\AzureDevOpsDemo\bin\Debug\AzureDevOpsDemo.pdb
+C:\Users\dell\Desktop\Pipleines\src\AzureDevOpsDemo\AzureDevOpsDemo\obj\Debug\AzureDevOpsDemo.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\Pipleines\src\AzureDevOpsDemo\AzureDevOpsDemo\obj\Debug\MainWindow.g.cs
+C:\Users\dell\Desktop\Pipleines\src\AzureDevOpsDemo\AzureDevOpsDemo\obj\Debug\App.g.cs
+C:\Users\dell\Desktop\Pipleines\src\AzureDevOpsDemo\AzureDevOpsDemo\obj\Debug\AzureDevOpsDemo_MarkupCompile.cache
+C:\Users\dell\Desktop\Pipleines\src\AzureDevOpsDemo\AzureDevOpsDemo\obj\Debug\AzureDevOpsDemo_MarkupCompile.lref
+C:\Users\dell\Desktop\Pipleines\src\AzureDevOpsDemo\AzureDevOpsDemo\obj\Debug\MainWindow.baml
+C:\Users\dell\Desktop\Pipleines\src\AzureDevOpsDemo\AzureDevOpsDemo\obj\Debug\AzureDevOpsDemo.g.resources
+C:\Users\dell\Desktop\Pipleines\src\AzureDevOpsDemo\AzureDevOpsDemo\obj\Debug\AzureDevOpsDemo.Properties.Resources.resources
+C:\Users\dell\Desktop\Pipleines\src\AzureDevOpsDemo\AzureDevOpsDemo\obj\Debug\AzureDevOpsDemo.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\Pipleines\src\AzureDevOpsDemo\AzureDevOpsDemo\obj\Debug\AzureDevOpsDemo.exe
+C:\Users\dell\Desktop\Pipleines\src\AzureDevOpsDemo\AzureDevOpsDemo\obj\Debug\AzureDevOpsDemo.pdb
